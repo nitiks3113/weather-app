@@ -66,5 +66,3 @@ weather-app-main/
    ```bash
    git clone https://github.com/your-username/weather-app.git
 
-## 📂 Project Structure
-
